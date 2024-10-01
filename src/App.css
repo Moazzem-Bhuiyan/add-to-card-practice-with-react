@@ -1,0 +1,42 @@
+
+
+.hello{
+  height: 100vh;
+  position: relative;
+  border: 3px solid rgb(25, 26, 25); 
+ background: url(../img/mediterranean-cuisine-2378758_1280.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ width: 100%;
+ height: 85vh;
+ background-position: center;
+ border-radius: 20px;
+
+
+}
+
+
+.hii{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+section{
+
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+
+}
+
+.navber{
+
+  width: 80%;
+  margin: auto;
+
+}
+

@@ -1,0 +1,63 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Spicy Chicken Tacos",
+      "short_description": "Delicious and easy-to-make spicy chicken tacos.",
+      "image_url": "https://i.ibb.co/dLTXw80/burger-with-melted-cheese.jpg",
+      "ingredients": ["Chicken breast", "Taco seasoning", "Tortillas"],
+      "preparing_time": "20 minutes",
+      "calories": 300,
+      "prepare":"prepare"
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Veggie Stir-fry",
+      "short_description": "A healthy and colorful stir-fry with fresh vegetables.",
+      "image_url": "https://i.ibb.co/dLTXw80/burger-with-melted-cheese.jpg",
+      "ingredients": ["Bell peppers", "Broccoli", "Soy sauce"],
+      "preparing_time": "15 minutes",
+      "calories": 150,
+      "prepare":"prepare"
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Creamy Mushroom Pasta",
+      "short_description": "Rich and creamy pasta with sautéed mushrooms.",
+      "image_url": "https://i.ibb.co/dLTXw80/burger-with-melted-cheese.jpg",
+      "ingredients": ["Pasta", "Mushrooms", "Cream"],
+      "preparing_time": "25 minutes",
+      "calories": 400,
+      "prepare":"prepare"
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Classic Margherita Pizza",
+      "short_description": "A classic pizza topped with fresh tomatoes, basil, and mozzarella.",
+      "image_url": "https://i.ibb.co/dLTXw80/burger-with-melted-cheese.jpg",
+      "ingredients": ["Pizza dough", "Tomatoes", "Mozzarella cheese"],
+      "preparing_time": "30 minutes",
+      "calories": 500,
+      "prepare":"prepare"
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "Avocado Toast",
+      "short_description": "Simple and healthy avocado toast topped with herbs.",
+      "image_url": "https://i.ibb.co/dLTXw80/burger-with-melted-cheese.jpg",
+      "ingredients": ["Avocado", "Whole grain bread", "Chili flakes"],
+      "preparing_time": "10 minutes",
+      "calories": 200,
+      "prepare":"prepare"
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Blueberry Smoothie",
+      "short_description": "A refreshing and nutritious blueberry smoothie.",
+      "image_url": "https://i.ibb.co/dLTXw80/burger-with-melted-cheese.jpg",
+      "ingredients": ["Blueberries", "Greek yogurt", "Honey"],
+      "preparing_time": "5 minutes",
+      "calories": 150,
+      "prepare":"prepare"
+    }
+  ]
+  
